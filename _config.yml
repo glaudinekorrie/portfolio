@@ -5,4 +5,6 @@ description: text below image
 #theme: jekyll-theme-architect
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-dinky
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: jekyll-theme-leap-day
+
