@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Advanced Excel, SQL, Power BI
 
 ## Education
 - BSc Software Engineering | Multimedia University of Kenya (_May 2025_)								       		
